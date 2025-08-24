@@ -20,7 +20,7 @@ On Windows: download from SQLite Downloads
 
 2. Clone this repository:
 
-git clone https://github.com/<your-username>/gcpporm.git
+git clone https://github.com/gaikwad shubham/gcpporm.git
 cd gcpporm
 
 3. Copy gcpporm.h into your project and include it:
